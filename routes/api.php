@@ -58,3 +58,4 @@ Route::get('/pharmacy-dashboard', function() {
         'recentActivities' => $recentActivities
     ]);
 });
+
